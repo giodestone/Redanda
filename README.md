@@ -48,7 +48,7 @@ The enemies are relatively simple, there are three types - small & fast, small r
 There is also a wave system, more, faster enemies will spawn the more waves you survive.
 
 # Credits
-* **Adam Stevens** - Enemies, implementing animations, Assembling the whole game together, programming.
+* **Adam Steven** - Enemies, implementing animations, Assembling the whole game together, programming.
 * **Feliks Jakimow** - Player, doughnuts, sfx, programming.
 * **Deyan Spasov** - Art, Main menu, game over, credits, instruction screens, and sourcing sounds, animations.
 * [Bensound](https://www.bensound.com/) for music
