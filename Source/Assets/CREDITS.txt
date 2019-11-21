@@ -1,0 +1,15 @@
+Adam Steven - Enemies, implementing animations, Assembing the whole game together, programming
+Feliks Jakimow - Player, doughnuts, sfx, programming
+Deyan Spasov - Art, Main menu, game over, credits, instruction screens, and sourcing sounds, animations
+
+This game was made as a late Ludum Dare entry. The theme was Combine 2 Incompatible Genres and we decided intially to combine snakes and ladders with a shooter (tabletop + shooter) but none of us have multiplayer programming skills, as the whole thing would have to be networked or split screen.
+
+So we settled for the shooting typing idea which made you type if you wanted to reload or do some actions. In the end just got the typing done.
+
+Initially it was supposed to be a red panda that was going to shoot things (inspired by pusheen) but then changed to a pineapple... for some reason (ask the artist). Same with the doughnuts.
+
+All sfx was used creting foiley. paper tearing, keystorkes, writing on paper, spraying detol in a cup. Mic used was a blue yeti snowball.
+
+Its good game :)
+
+Finished on time with only one known bug: no death sound is played.
