@@ -1,10 +1,10 @@
 # Redanda
 A game about shooting doughnuts at flies, which in turn throw knives at you while trying to chase you down.
 
-![GIF of playing game](todo)
+![GIF of playing game](https://github.com/giodestone/Redanda/tree/master/Images/GIF1.gif)
 
 # Running
-[Download here!](todo)
+[Download here!](https://github.com/giodestone/Redanda/releases)
 
 Available for Windows, Mac, and Linux. A WebGL build is included.
 
@@ -24,15 +24,15 @@ On the top left is your score, and on the bottom left is your ammunition.
 ## Goal
 Survive as many waves of flies, while amusing yourself with the randomly generated words. 
 
-![GIF of being overrun by flies and game over](todo)
-![Image of game over](todo)
+![GIF of being overrun by flies and game over](https://github.com/giodestone/Redanda/tree/master/Images/GIF2.gif)
+![Image of game over](https://github.com/giodestone/Redanda/tree/master/Images/Image3.jpg)
 # Story
-![Image of reloading](todo)
+![Image of reloading](https://github.com/giodestone/Redanda/tree/master/Images/Image1.jpg)
 This game was made as a late Ludum Dare entry. The theme was Combine 2 Incompatible Genres and we decided initially to combine snakes and ladders with a shooter (tabletop + shooter) but none of us had multiplayer programming skills at the time, as the whole thing would have had to be networked or split screen.
 
 So we settled for the shooting typing idea which made you type if you wanted to reload or do some actions. In the end just got the typing done.
 
-![Image of shooting](todo)
+![Image of pineapple getting swarmed by flies](https://github.com/giodestone/Redanda/tree/master/Images/Image2.jpg)
 
 Initially the main character was supposed to be a red panda that was going to shoot things (inspired by Pusheen) but then changed to a pineapple... for some reason (ask the artist). Same with the doughnuts. This is why the name is Redanda **Red** p**anda**.
 
