@@ -4,7 +4,9 @@ A game about shooting doughnuts at flies, which in turn throw knives at you whil
 ![GIF of playing game](https://github.com/giodestone/Redanda/blob/master/Images/GIF1.gif)
 
 # Running
-[Download here!](https://github.com/giodestone/Redanda/releases)
+[Play In Browser Here!](https://giodestone.itch.io/redanda)
+
+[Download Standalone here!](https://github.com/giodestone/Redanda/releases)
 
 Available for Windows, Mac, and Linux. A WebGL build is included.
 
